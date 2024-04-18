@@ -1,1 +1,1 @@
-# takagi
+pip install -r requirements.txt
